@@ -3,7 +3,7 @@
 Idea:
 create an online micro service that allow the users to:
 
- -Get the has of a document without uploading it
+ -Get the hash of a document without uploading it (Improvemnt light hash, random select 1 to 100 subsections of 100 bytes)
  
  -Write the hash on any blockchain
  
